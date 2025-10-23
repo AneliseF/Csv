@@ -1,0 +1,14 @@
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\bin\Debug\net8.0\ArquivoCsv.exe
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\bin\Debug\net8.0\ArquivoCsv.deps.json
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\bin\Debug\net8.0\ArquivoCsv.runtimeconfig.json
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\bin\Debug\net8.0\ArquivoCsv.dll
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\bin\Debug\net8.0\ArquivoCsv.pdb
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.AssemblyInfoInputs.cache
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.AssemblyInfo.cs
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.csproj.CoreCompileInputs.cache
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.dll
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\refint\ArquivoCsv.dll
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.pdb
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ArquivoCsv.genruntimeconfig.cache
+C:\Users\2025106346\Downloads\Aula23-10\Csv\ArquivoCsv\obj\Debug\net8.0\ref\ArquivoCsv.dll
