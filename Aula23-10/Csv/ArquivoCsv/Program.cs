@@ -13,11 +13,9 @@
 
         for(int i = 0;i < colunas.Length; i++)
         {
-            for(int a = 0;a < colunas[i].Length; a++)
-            {
-                
-            }
+            Console.Write($"{colunas[i].PadRight(10)}");
         }
+        Console.WriteLine();
     }
 }
 
